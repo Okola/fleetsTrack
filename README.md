@@ -1,2 +1,2 @@
-# Fleet-Management
-A repository for the final year project
+#Fleets Tracker
+A project that uses google maps APi and Firebase to establish the location of vehicles
